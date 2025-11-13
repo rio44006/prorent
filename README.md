@@ -66,6 +66,32 @@ Veja a documentacao em: https://docs.google.com/document/d/1O5FTGcNibDCFeeERxW9l
 
 Acesse em: https://aistudio.google.com/app/apps/drive/1qpPik7X2MJ05WIUw_GZf-NSoud7_ZDIc
 
+## Melhorias de UI/UX (Nov 2025)
+
+### Responsividade e Design
+- Menu hamburguer adaptável para dispositivos móveis
+- Layout responsivo otimizado para todos os tamanhos de tela
+- Melhor espaçamento e hierarquia visual
+- Efeitos hover dinâmicos em componentes interativos
+
+### Funcionalidades Adicionadas
+- **Busca Rápida**: Campo de busca no dashboard para filtrar veículos por placa ou modelo
+- **Filtros Avançados**: Filtros inteligentes nas seções de registro
+- **Paginação**: Suporte a paginação para tabelas grandes
+- **Notificações**: Sistema de notificações não-intrusivo para ações do usuário
+
+### Performance
+- Componentes memoizados para prevenir re-renders desnecessários
+- Lazy loading para melhorar tempo de carregamento inicial
+- Otimização de renderização com React.memo
+
+### Tema e Acessibilidade
+- Dark mode automático baseado em preferências do sistema
+- Melhor contraste e legibilidade
+- Ícones informativos em todas as seções principais
+
+
+
 ## Licenca
 
 MIT License
